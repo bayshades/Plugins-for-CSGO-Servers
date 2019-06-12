@@ -1,0 +1,18 @@
+"Phrases"
+{
+	"Kredi-Odul-Mesaji"
+	{
+		"#format"	"{1:s},{2:s},{3:i}"
+		"tr"		"{darkred}{1} {orange}{2} {green}clan tagını kullandığınız için {orchid}fazladan {3}{green} kredi kazandınız."
+	}
+	"Spec-Kredi-Odul-Mesaji"
+	{
+		"#format"	"{1:s},{2:s},{3:i}"
+		"tr"		"{darkred}{1} {orange}{2} {green}clan tagını kullandığınız için {orchid}fazladan {3}{green} kredi kazandınız."
+	}
+	"Grup-Tagi-Almayana-Mesaj"
+	{
+		"#format"	"{1:s},{2:s}"
+		"tr"		"{darkred}{1} {orange}{2} {green}clan tagını kullanarak {orchid}fazladan {green}kredi kazanabilirsiniz."
+	}
+}
